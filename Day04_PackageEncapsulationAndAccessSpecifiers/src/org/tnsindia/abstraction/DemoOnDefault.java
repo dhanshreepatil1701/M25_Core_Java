@@ -1,4 +1,5 @@
 package org.tnsindia.abstraction;
+
 class C {
 	//default variable
 	String VehicleType;
