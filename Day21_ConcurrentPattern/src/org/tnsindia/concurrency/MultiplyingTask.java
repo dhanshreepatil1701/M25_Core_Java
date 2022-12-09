@@ -22,5 +22,4 @@ public class MultiplyingTask implements Callable{
 		Thread.sleep(sleeptime);
 		return x*y;
 	}
-
 }
